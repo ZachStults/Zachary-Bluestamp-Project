@@ -1,24 +1,28 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+﻿# Sun Following Solar Panel Phone Charger
+My goal is to make a solar panel capable of charging my phone. In order to maximize the output of the panel, it will be able to follow the sun as it moves throughout the sky.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| Zachary | Maria Carrillo High School | Electrical Engineering | Rising Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
+![unnamed](https://user-images.githubusercontent.com/107559808/176471329-6d9cc24b-a781-4f3f-9054-40c334f4d132.jpg)
+![Schematic](https://user-images.githubusercontent.com/107559808/176446150-0b09fcec-88f7-4a55-bed6-eea0e26a928c.png)
+
 # Final Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
+My final milestone is having my project be fully operational, with the panel being able to charge my phone as well as follow the sun. It was a challenge to get everything working because my USB connectors were faulty, and it only worked once a new one was ordered. After getting everything soldered and glued, my panel, sensors, motor and phone charger are all working according to plan.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
+[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1656425484/video_to_markdown/images/youtube--1AgnIt4nWs8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=1AgnIt4nWs8 "Milestone 3")
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
+My second milestone was creating the stand for my panel, as well as getting my photoresistor to read. Building the stand came with some frustration, as I realized that after I had already built it, my design was flawed and I had to rework it. After completing this I was able to hook up my photoresistor to my Arduino and run some code for it to output some data. The photoresistor worked great, giving low values in low light and high values in high light.
 
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Milestone 2](https://res.cloudinary.com/marcomontalbano/image/upload/v1656077319/video_to_markdown/images/youtube--9MuunznDPj0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/9MuunznDPj0 "Milestone 2")
+
 # First Milestone
   
 
-My first milestone was setting up and hooking up the Raspberry Pi and all the necessary components onto my tv. The heatsinks, the sd card, and the controller were all added to ensure that the Raspberry Pi was working. Instead of the Raspberry Pi Os software, I had to first download a different software called Retro Pie. With Retro Pie, I needed to download an Imager for Raspberry Pi. Raspberry Pi Imager automatically downloads a list of the latest versions of Raspbian supported by the Raspberry Pi. Raspbian is the typical Raspberry Pi Os software, the one I needed on the Raspberry Pi was Retro Pi. With the included SD card, I plugged in the SD into my computer and launched the Imager. The imager allowed me to set the Operating System to Retro Pi instead of Raspbian onto the SD card. With the OS imaged onto the SD, I plugged the SD card back into the Raspberry Pi and rebooted the system and Retro Bi booted up.
+My first milestone was proving that my solar panel worked, as well as running the sweep command on my servo! Both of these things were essential for my project, because the servo and panel are two very important parts of my project. To prove the panel worked, I bought a cheap flashlight and took out the LED. I then hooked it up to the solar panel's jumper cables, and was able to make it shine brightly!
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1655738517/video_to_markdown/images/youtube--XqmFpu_RGnA-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/XqmFpu_RGnA "Milestone 1")
+
+![image](https://user-images.githubusercontent.com/107559808/174310788-9a6bc3d9-c201-46d0-b00c-a1e15ff480f2.png)
