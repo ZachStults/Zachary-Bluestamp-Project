@@ -6,6 +6,7 @@ My goal is to make a solar panel capable of charging my phone. In order to maxim
 | Zachary | Maria Carrillo High School | Electrical Engineering | Rising Senior
 
 ![unnamed](https://user-images.githubusercontent.com/107559808/176471329-6d9cc24b-a781-4f3f-9054-40c334f4d132.jpg)
+![Screenshot 2022-07-01 7 23 29 AM](https://user-images.githubusercontent.com/107559808/176913226-b9ca126a-c025-4a7d-974c-29f07923e5cd.png)
 ![Schematic](https://user-images.githubusercontent.com/107559808/176446150-0b09fcec-88f7-4a55-bed6-eea0e26a928c.png)
 
 # Final Milestone
